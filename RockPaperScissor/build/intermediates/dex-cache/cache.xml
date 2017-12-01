@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\msi\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="G:\Android\RockPaperScissor\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_4c63532e28073c32456a376974e62ecb73f5adb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\msi\.android\build-cache\5fc05a933e0035cdd601a44be45078b203c2138a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="G:\Android\RockPaperScissor\app\build\intermediates\pre-dexed\debug\classes_7186f19c71db788635d87acad42e2310320ca1c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\msi\.android\build-cache\e4078f1841082392146a4eabbd86f7d999bb0918\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="G:\Android\RockPaperScissor\app\build\intermediates\pre-dexed\debug\classes_04f3f75f0d9b7259dc2a6cd9e9cb3f3fcd4a5838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\msi\.android\build-cache\94be8fb4fed7a6687ccc0fe605299e82420ad253\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="G:\Android\RockPaperScissor\app\build\intermediates\pre-dexed\debug\classes_7b6ee682ee25bc9a5b5a84b258f477a886009317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\msi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="G:\Android\RockPaperScissor\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_fbcf842a4f30dfd6fe707a4f0d2fbd928a0358f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\msi\.android\build-cache\e55f0ac3d0e1fda6a7dde3a2c64131e7b988b0da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="G:\Android\RockPaperScissor\app\build\intermediates\pre-dexed\debug\classes_22fa831037e810e3b2df57fd537041841dca5242.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\msi\.android\build-cache\4685e97fe5666750519e8630afcacfd962011013\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="G:\Android\RockPaperScissor\app\build\intermediates\pre-dexed\debug\classes_e2bded03ec3aa7ea30775ef16f7a711d3c2c1b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\msi\.android\build-cache\6e75967add2d15c78d4fe4db7eb1d11feb8ee98a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="G:\Android\RockPaperScissor\app\build\intermediates\pre-dexed\debug\classes_9d666017dacde057474745619e908dfd070bb899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\msi\.android\build-cache\9b6eb0d5c2521c7a3bf297bf73dcb1f22fa078e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="G:\Android\RockPaperScissor\app\build\intermediates\pre-dexed\debug\classes_ecc0c184fda178a19a3953d170e7dc2987322eae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\msi\.android\build-cache\31af42de6b1b036367b723c29ceb3378b9bdd8dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\Android\RockPaperScissor\app\build\intermediates\pre-dexed\debug\classes_6b7ccb46112d04c18cbede1c5cadac1845922921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\msi\.android\build-cache\587ef561419515fe8751804942531e96cf8dd29f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="G:\Android\RockPaperScissor\app\build\intermediates\pre-dexed\debug\classes_b61d9d2b08f4bf17fbf7f097e71e328ec335d3b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\msi\.android\build-cache\83cef4f855a43ed65071b2dbb5f16ca4e719dfcb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="G:\Android\RockPaperScissor\app\build\intermediates\pre-dexed\debug\classes_e3e492759dfc1cd80e4d31acf754ea8a0e83413f.jar" />
+    </item>
+
+</items>
